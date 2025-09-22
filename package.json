@@ -1,0 +1,22 @@
+{
+  "name": "jogo_da_velha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pe135-away/jogo_da_velha.git"
+  },
+  "author": "Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pe135-away/jogo_da_velha/issues"
+  },
+  "homepage": "https://github.com/Pe135-away/jogo_da_velha#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
